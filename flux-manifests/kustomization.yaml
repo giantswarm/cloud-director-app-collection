@@ -3,6 +3,7 @@ generators:
 - app-exporter.yaml
 - app-operator.yaml
 - athena.yaml
+- chart-operator.yaml
 - cluster-api-monitoring.yaml
 - cluster-apps-operator.yaml
 - credentiald.yaml
