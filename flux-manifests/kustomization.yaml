@@ -4,7 +4,9 @@ generators:
 - app-operator.yaml
 - athena.yaml
 - chart-operator.yaml
+- cluster-api.yaml
 - cluster-api-monitoring.yaml
+- cluster-api-provider-cloud-director.yaml
 - cluster-apps-operator.yaml
 - credentiald.yaml
 - dashboards.yaml
