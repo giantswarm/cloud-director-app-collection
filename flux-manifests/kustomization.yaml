@@ -11,6 +11,7 @@ generators:
 - dashboards.yaml
 - deletion-blocker-operator.yaml
 - dex-app.yaml
+- dns-operator-route53.yaml
 - etcd-backup-operator.yaml
 - falco-app.yaml
 - fluent-logshipping-app.yaml
