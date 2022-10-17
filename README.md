@@ -1,6 +1,6 @@
 # cloud-director-app-collection chart
 
-Cloud Director App Collection contains the set of resources are deployed to the Management Cluster in the Giant Swarm Cloud Director platform.
+Cloud Director App Collection contains the set of resources that are deployed to the Management Cluster in the Giant Swarm Cloud Director platform.
 
 Here we define the Cluster cloud-director App chart with its templates and default configuration.
 
