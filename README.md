@@ -6,7 +6,7 @@ Here we define the Cluster cloud-director App chart with its templates and defau
 
 ## Installing
 
-When the Management Cluster is provisioned using [management-clusters-fleet](https://github.com/giantswarm/management-clusters-fleet/blob/main/bases/) flux is configured to apply the manifest stored in this repository.
+When the Management Cluster is provisioned using [management-clusters-fleet](https://github.com/giantswarm/management-clusters-fleet/blob/main/bases/) flux is configured to apply the manifests stored in this repository.
 
 ## Contact
 
