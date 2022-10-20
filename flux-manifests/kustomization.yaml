@@ -33,6 +33,7 @@ generators:
 - prometheus-meta-operator.yaml
 - prometheus-operator-app.yaml
 - prometheus-operator-crd.yaml
+- prometheus-remotewrite.yaml
 - prometheus-rules.yaml
 - promxy-app.yaml
 - rbac-operator.yaml
