@@ -19,6 +19,7 @@ generators:
 - grafana.yaml
 - happa.yaml
 - kube-state-metrics.yaml
+- kyverno-policies-connectivity.yaml
 - kyverno-policies-dx.yaml
 - kyverno-policies-observability.yaml
 - kyverno-policies-ux.yaml
