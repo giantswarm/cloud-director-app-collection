@@ -3,7 +3,6 @@ generators:
 - app-exporter.yaml
 - app-operator.yaml
 - athena.yaml
-- cert-exporter.yaml
 - cluster-api-monitoring.yaml
 - cluster-api-provider-cloud-director.yaml
 - cluster-api.yaml
@@ -18,7 +17,6 @@ generators:
 - fluent-logshipping-app.yaml
 - grafana.yaml
 - happa.yaml
-- kube-state-metrics.yaml
 - kyverno-policies-connectivity.yaml
 - kyverno-policies-dx.yaml
 - kyverno-policies-observability.yaml
@@ -27,7 +25,6 @@ generators:
 - kyverno.yaml
 - macropower-analytics-panel-server.yaml
 - management-cluster-admission.yaml
-- metrics-server-app.yaml
 - nginx-ingress-controller-app.yaml
 - oauth2-proxy.yaml
 - organization-operator.yaml
