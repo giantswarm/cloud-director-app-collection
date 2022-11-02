@@ -64,30 +64,3 @@ the body of the commit should describe the why.
 You might also want to read [Elika Etemad’s article on filing good bug reports](http://fantasai.inkedblade.net/style/talks/filing-good-bugs/) before creating a bug report.
 
 We might ask you for further information to locate a bug. A duplicated bug report will be closed.
-
-## Contribution flow
-
-This is a rough outline of what a contributor's workflow looks like:
-
-- Create a feature branch from where you want to base your work. This is usually master.
-- Make commits of logical units.
-- Make sure your commit messages are in the proper format (see below).
-- Push your changes to a topic branch in your fork of the repository.
-- Submit a pull request to giantswarm/cloud-director-app-collection.
-- Adding unit tests will greatly improve the chance for getting a quick review and your PR accepted.
-- Your PR must receive a LGTM from project owners.
-- When PR gets approval, all commits are squashed into one and merged by one of the owners.
-
-Thanks for your contributions!
-
-### Code style
-
-The coding style suggested by the Golang community is used. See the [style doc](https://github.com/golang/go/wiki/CodeReviewComments) for details.
-
-Please follow this style to make the code easy to review, maintain, and develop.
-
-### Format of the Commit Message
-
-We follow a rough convention for commit messages that is designed to answer two
-questions: what changed and why. The subject line should feature the what and
-the body of the commit should describe the why.
