@@ -26,34 +26,6 @@ To make your bug report accurate and easy to understand, please try to create bu
 - Isolated. Please try to isolate and reproduce the bug with minimum dependencies. It would significantly slow down the speed to fix a bug if too many dependencies are involved in a bug report. Debugging external systems that rely on cloud-director-app-collection is out of scope, but we are happy to point you in the right direction or help you interact with cloud-director-app-collection in the correct manner.
 
 - Unique. Do not duplicate existing bug reports.
-# How to contribute
-
-cloud-director-app-collection is Apache 2.0 licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on commit message formatting, contact points for developers and other resources to make getting your contribution into cloud-director-app-collection easier.
-
-# Email and chat
-
-- Email: [giantswarm](https://groups.google.com/forum/#!forum/giantswarm)
-- IRC: #[giantswarm](irc://irc.freenode.org:6667/#giantswarm) IRC channel on freenode.org
-
-## Getting started
-
-- Fork the repository on GitHub
-- Read the [README](README.md) for build instructions
-
-## Reporting Bugs and Creating Issues
-
-Reporting bugs is one of the best ways to contribute. If you find bugs or documentation mistakes in the cloud-director-app-collection project, please let us know by [opening an issue](https://github.com/giantswarm/cloud-director-app-collection/issues/new). We treat bugs and mistakes very seriously and believe no issue is too small. Before creating a bug report, please check there that one does not already exist.
-For security issues, please see [the security policy](SECURITY.md).
-
-To make your bug report accurate and easy to understand, please try to create bug reports that are:
-
-- Specific. Include as much details as possible: which version, what environment, what configuration, etc. You can also attach logs.
-
-- Reproducible. Include the steps to reproduce the problem. We understand some issues might be hard to reproduce, please includes the steps that might lead to the problem. If applicable, you can also attach affected data dir(s) and a stack trace to the bug report.
-
-- Isolated. Please try to isolate and reproduce the bug with minimum dependencies. It would significantly slow down the speed to fix a bug if too many dependencies are involved in a bug report. Debugging external systems that rely on cloud-director-app-collection is out of scope, but we are happy to point you in the right direction or help you interact with cloud-director-app-collection in the correct manner.
-
-- Unique. Do not duplicate existing bug reports.
 
 - Scoped. One bug per report. Do not follow up with another bug inside one report.
 
