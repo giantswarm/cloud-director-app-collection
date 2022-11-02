@@ -59,8 +59,3 @@ Please follow this style to make the code easy to review, maintain, and develop.
 We follow a rough convention for commit messages that is designed to answer two
 questions: what changed and why. The subject line should feature the what and
 the body of the commit should describe the why.
-- Scoped. One bug per report. Do not follow up with another bug inside one report.
-
-You might also want to read [Elika Etemad’s article on filing good bug reports](http://fantasai.inkedblade.net/style/talks/filing-good-bugs/) before creating a bug report.
-
-We might ask you for further information to locate a bug. A duplicated bug report will be closed.
