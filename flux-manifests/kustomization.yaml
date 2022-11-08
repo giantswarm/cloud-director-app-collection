@@ -38,5 +38,6 @@ generators:
 - silence-operator.yaml
 - trivy-app.yaml
 - trivy-operator.yaml
+- trivy.yaml
 - vertical-pod-autoscaler-app.yaml
 - vertical-pod-autoscaler-crd.yaml
