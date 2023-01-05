@@ -30,7 +30,6 @@ generators:
 - management-cluster-admission.yaml
 - net-exporter.yaml
 - nginx-ingress-controller-app.yaml
-- node-exporter-app.yaml
 - oauth2-proxy.yaml
 - organization-operator.yaml
 - prometheus-meta-operator.yaml
