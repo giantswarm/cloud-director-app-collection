@@ -8,7 +8,6 @@ generators:
 - cluster-api-provider-cloud-director.yaml
 - cluster-api.yaml
 - cluster-apps-operator.yaml
-- credentiald.yaml
 - dashboards.yaml
 - deletion-blocker-operator.yaml
 - dex-app.yaml
