@@ -1,8 +1,8 @@
 api_version: generators.giantswarm.io/v1
-app_catalog: control-plane-catalog
+app_catalog: control-plane-test-catalog
 app_destination_namespace: giantswarm
 app_name: cluster-api-cleaner-cloud-director
-app_version: 0.2.0
+app_version: 0.2.0-29e30c51b9a3fa93294a8ef734c373fb7aac262d
 kind: Konfigure
 metadata:
   annotations:
