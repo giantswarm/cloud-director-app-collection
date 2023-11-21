@@ -35,6 +35,7 @@ generators:
 - prometheus-remotewrite.yaml
 - prometheus-rules.yaml
 - promxy-app.yaml
+- pss-operator.yaml
 - rbac-operator.yaml
 - silence-operator.yaml
 - sloth-rules.yaml
