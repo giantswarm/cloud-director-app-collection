@@ -31,7 +31,6 @@ generators:
 - logging-operator.yaml
 - loki.yaml
 - macropower-analytics-panel-server.yaml
-- nginx-ingress-controller-app.yaml
 - oauth2-proxy.yaml
 - organization-operator.yaml
 - prometheus-meta-operator.yaml
