@@ -1,13 +1,13 @@
 api_version: generators.giantswarm.io/v1
 app_catalog: control-plane-catalog
-app_destination_namespace: monitoring
-app_name: sloth-rules
-app_version: 0.32.0
+app_destination_namespace: mimir
+app_name: mimir
+app_version: 0.6.3
 kind: Konfigure
 metadata:
   annotations:
     config.kubernetes.io/function: |-
       exec:
         path: /plugins/konfigure
-  name: sloth-rules
-name: sloth-rules
+  name: mimir
+name: mimir
