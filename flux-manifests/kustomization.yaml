@@ -36,6 +36,7 @@ generators:
 - oauth2-proxy.yaml
 - observability-operator.yaml
 - organization-operator.yaml
+- policy-meta-operator.yaml
 - prometheus-meta-operator.yaml
 - prometheus-remotewrite.yaml
 - prometheus-rules.yaml
