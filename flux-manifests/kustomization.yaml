@@ -4,6 +4,7 @@ generators:
 - app-exporter.yaml
 - app-operator.yaml
 - athena.yaml
+- cloudnative-pg.yaml
 - cluster-api-cleaner-cloud-director.yaml
 - cluster-api-events.yaml
 - cluster-api-monitoring.yaml
