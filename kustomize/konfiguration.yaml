@@ -36,6 +36,7 @@ spec:
           - grafana
           - happa
           - ingress-nginx
+          - konfigure-operator
           - kube-downscaler
           - kyverno-policies-connectivity
           - kyverno-policies-dx
