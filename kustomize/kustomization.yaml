@@ -49,5 +49,6 @@ resources:
 - sloth.yaml
 - starboard-exporter.yaml
 - teleport-operator.yaml
+- teleport-tbot.yaml
 - trivy-operator.yaml
 - trivy.yaml
