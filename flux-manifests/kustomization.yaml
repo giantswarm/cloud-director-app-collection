@@ -1,2 +1,3 @@
 generators:
 - ingress-nginx.yaml
+- konfigure-operator.yaml
