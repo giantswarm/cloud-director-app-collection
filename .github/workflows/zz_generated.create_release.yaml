@@ -2,7 +2,7 @@
 #
 #    devctl
 #
-#    https://github.com/giantswarm/devctl/blob/7f65ea49e4e543a7b39a7b3cf70038a3e16641a5/pkg/gen/input/workflows/internal/file/create_release.yaml.template
+#    https://github.com/giantswarm/devctl/blob/7f3af2198debcf8f013357055807077eba715b3f/pkg/gen/input/workflows/internal/file/create_release.yaml.template
 #
 name: Create Release
 on:
@@ -90,12 +90,12 @@ jobs:
       - gather_facts
     steps:
       - name: Install architect
-        uses: giantswarm/install-binary-action@0797deb878056114fa54ee30c519f617716e8c69 # v3.1.1
+        uses: giantswarm/install-binary-action@c37eb401e5092993fc76d545030b1d1769e61237 # v3.0.0
         with:
           binary: "architect"
           version: "6.14.1"
       - name: Install semver
-        uses: giantswarm/install-binary-action@0797deb878056114fa54ee30c519f617716e8c69 # v3.1.1
+        uses: giantswarm/install-binary-action@c37eb401e5092993fc76d545030b1d1769e61237 # v3.0.0
         with:
           binary: "semver"
           version: "3.2.0"
@@ -208,7 +208,7 @@ jobs:
     if: ${{ needs.gather_facts.outputs.version }}
     steps:
       - name: Install semver
-        uses: giantswarm/install-binary-action@0797deb878056114fa54ee30c519f617716e8c69 # v3.1.1
+        uses: giantswarm/install-binary-action@c37eb401e5092993fc76d545030b1d1769e61237 # v3.0.0
         with:
           binary: "semver"
           version: "3.0.0"
