@@ -72,7 +72,7 @@ spec:
   reconciliation:
     interval: 1m0s
     retryInterval: 10s
-    suspend: false
+    suspend: true
   sources:
     flux:
       gitRepository:
