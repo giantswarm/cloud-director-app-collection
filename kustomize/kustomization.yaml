@@ -50,5 +50,6 @@ resources:
 - starboard-exporter.yaml
 - teleport-operator.yaml
 - teleport-tbot.yaml
+- tempo.yaml
 - trivy-operator.yaml
 - trivy.yaml
