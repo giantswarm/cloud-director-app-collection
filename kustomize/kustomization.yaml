@@ -37,6 +37,7 @@ resources:
 - logging-operator.yaml
 - loki.yaml
 - mimir.yaml
+- oauth2-proxy.yaml
 - observability-operator.yaml
 - observability-platform-api.yaml
 - organization-operator.yaml

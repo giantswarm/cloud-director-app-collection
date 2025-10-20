@@ -163,6 +163,10 @@ spec:
         variables:
           - name: app
             value: mimir
+      oauth2-proxy:
+        variables:
+          - name: app
+            value: oauth2-proxy
       observability-operator:
         variables:
           - name: app
