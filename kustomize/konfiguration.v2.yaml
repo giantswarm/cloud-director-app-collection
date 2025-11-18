@@ -175,6 +175,10 @@ spec:
         variables:
           - name: app
             value: organization-operator
+      plugin-barman-cloud:
+        variables:
+          - name: app
+            value: plugin-barman-cloud
       policy-meta-operator:
         variables:
           - name: app
