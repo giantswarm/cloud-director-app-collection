@@ -24,6 +24,7 @@ resources:
 - fluent-logshipping-app.yaml
 - grafana.yaml
 - happa.yaml
+- image-distribution-operator.yaml
 - ingress-nginx.yaml
 - keda.yaml
 - konfiguration.v2.yaml
