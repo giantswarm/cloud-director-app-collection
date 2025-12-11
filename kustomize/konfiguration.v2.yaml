@@ -115,6 +115,10 @@ spec:
         variables:
           - name: app
             value: happa
+      image-distribution-operator:
+        variables:
+          - name: app
+            value: image-distribution-operator
       ingress-nginx:
         variables:
           - name: app
