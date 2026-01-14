@@ -6,7 +6,6 @@ resources:
 - cloudnative-pg.yaml
 - cluster-api-cleaner-cloud-director.yaml
 - cluster-api-events.yaml
-- cluster-api-monitoring.yaml
 - cluster-api-provider-cloud-director.yaml
 - cluster-api.yaml
 - cluster-apps-operator.yaml
