@@ -1,7 +1,6 @@
 resources:
 - app-admission-controller.yaml
 - app-exporter.yaml
-- app-operator.yaml
 - athena.yaml
 - cloudnative-pg.yaml
 - cluster-api-cleaner-cloud-director.yaml
