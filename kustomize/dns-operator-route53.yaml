@@ -20,4 +20,4 @@ spec:
     inCluster: true
   name: dns-operator-route53
   namespace: giantswarm
-  version: 0.10.1
+  version: 0.10.2
