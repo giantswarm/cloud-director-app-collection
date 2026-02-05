@@ -175,10 +175,6 @@ spec:
         variables:
           - name: app
             value: plugin-barman-cloud
-      policy-meta-operator:
-        variables:
-          - name: app
-            value: policy-meta-operator
       prometheus-remotewrite:
         variables:
           - name: app
