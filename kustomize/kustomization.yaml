@@ -7,7 +7,6 @@ resources:
 - dex-app.yaml
 - dex-operator.yaml
 - dns-operator-route53.yaml
-- encryption-provider-operator.yaml
 - etcd-backup-operator.yaml
 - event-exporter-app.yaml
 - exception-recommender.yaml
