@@ -1,6 +1,5 @@
 resources:
 - cluster-api-cleaner-cloud-director.yaml
-- cluster-api-events.yaml
 - cluster-api-provider-cloud-director.yaml
 - dashboards.yaml
 - deletion-blocker-operator.yaml
