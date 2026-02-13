@@ -3,6 +3,7 @@ kind: App
 metadata:
   annotations:
     chart-operator.giantswarm.io/force-helm-upgrade: "true"
+    app-operator.giantswarm.io/paused: "true"
   labels:
     app-operator.giantswarm.io/version: 0.0.0
   name: sloth-rules
@@ -20,4 +21,4 @@ spec:
     inCluster: true
   name: sloth-rules
   namespace: monitoring
-  version: 0.47.1
+  version: 0.47.2
