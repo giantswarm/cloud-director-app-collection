@@ -18,7 +18,6 @@ resources:
 - loki.yaml
 - mimir.yaml
 - oauth2-proxy.yaml
-- observability-platform-api.yaml
 - organization-operator.yaml
 - plugin-barman-cloud.yaml
 - prometheus-remotewrite.yaml
