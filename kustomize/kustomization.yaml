@@ -12,7 +12,6 @@ resources:
 - falco.yaml
 - fluent-logshipping-app.yaml
 - image-distribution-operator.yaml
-- ingress-nginx.yaml
 - keda.yaml
 - konfiguration.v2.yaml
 - kyverno-policies-connectivity.yaml
