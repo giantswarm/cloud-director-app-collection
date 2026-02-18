@@ -1,7 +1,6 @@
 resources:
 - cluster-api-cleaner-cloud-director.yaml
 - cluster-api-provider-cloud-director.yaml
-- dashboards.yaml
 - deletion-blocker-operator.yaml
 - dex-app.yaml
 - dex-operator.yaml
