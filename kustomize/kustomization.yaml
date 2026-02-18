@@ -17,7 +17,6 @@ resources:
 - loki.yaml
 - mimir.yaml
 - oauth2-proxy.yaml
-- plugin-barman-cloud.yaml
 - rbac-operator.yaml
 - silence-operator.yaml
 - starboard-exporter.yaml
