@@ -19,7 +19,6 @@ resources:
 - mimir.yaml
 - oauth2-proxy.yaml
 - plugin-barman-cloud.yaml
-- prometheus-remotewrite.yaml
 - rbac-operator.yaml
 - silence-operator.yaml
 - starboard-exporter.yaml
