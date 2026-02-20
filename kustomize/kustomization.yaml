@@ -10,7 +10,6 @@ resources:
 - exception-recommender.yaml
 - falco.yaml
 - fluent-logshipping-app.yaml
-- image-distribution-operator.yaml
 - konfiguration.v2.yaml
 - teleport-operator.yaml
 - teleport-tbot.yaml
