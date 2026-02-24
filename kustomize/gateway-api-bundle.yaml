@@ -3,22 +3,21 @@ kind: App
 metadata:
   annotations:
     chart-operator.giantswarm.io/force-helm-upgrade: "true"
-    app-operator.giantswarm.io/paused: "true"
   labels:
     app-operator.giantswarm.io/version: 0.0.0
-  name: fluent-logshipping-app
+  name: gateway-api-bundle
   namespace: giantswarm
 spec:
   catalog: control-plane-catalog
   config:
     configMap:
-      name: fluent-logshipping-app-konfiguration
+      name: gateway-api-bundle-konfiguration
       namespace: giantswarm
     secret:
-      name: fluent-logshipping-app-konfiguration
+      name: gateway-api-bundle-konfiguration
       namespace: giantswarm
   kubeConfig:
     inCluster: true
-  name: fluent-logshipping-app
-  namespace: monitoring
-  version: 5.5.2
+  name: gateway-api-bundle
+  namespace: org-giantswarm
+  version: 1.12.5
