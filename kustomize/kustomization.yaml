@@ -1,6 +1,5 @@
 resources:
 - cluster-api-cleaner-cloud-director.yaml
-- cluster-api-provider-cloud-director.yaml
 - dex-app.yaml
 - dex-operator.yaml
 - dns-operator-route53.yaml
